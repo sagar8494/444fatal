@@ -1,0 +1,16 @@
+{
+    "name": "444betting",
+    "version": "1.0.0",
+    "description": "Betting website where users can register, login, deposit via UPI, and withdraw funds manually.",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.2",
+      "body-parser": "^1.19.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+  }
+  

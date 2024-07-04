@@ -1,0 +1,47 @@
+{
+  "name": "444Betting",
+  "description": "A betting website where users can register, login, deposit funds via UPI, and withdraw funds manually.",
+  "features": [
+    {
+      "name": "User Authentication",
+      "description": "Allows users to register with a username and password, and login securely."
+    },
+    {
+      "name": "Deposit Funds",
+      "description": "Users can deposit funds using UPI to the specified UPI ID."
+    },
+    {
+      "name": "Withdraw Funds",
+      "description": "Withdrawal of funds is processed manually by contacting support."
+    },
+    {
+      "name": "Dashboard",
+      "description": "User dashboard displays current balance and options to deposit and withdraw funds."
+    },
+    {
+      "name": "Terms and Conditions",
+      "description": "Deposited amount cannot be withdrawn as per the terms and conditions."
+    }
+  ],
+  "technologies_used": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL"
+  ],
+  "security_measures": [
+    "Input validation and sanitization",
+    "Secure connections (HTTPS)",
+    "Authentication mechanisms",
+    "Data encryption for sensitive information"
+  ],
+  "legal_compliance": [
+    "Consult with legal experts for compliance with online betting regulations",
+    "Data protection laws (GDPR, etc.)"
+  ],
+  "contact_information": {
+    "email": "contact@444betting.com",
+    "phone": "+1234567890"
+  }
+}
